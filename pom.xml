@@ -11,8 +11,8 @@
     <groupId>com.example</groupId>
     <artifactId>PartnerMatchingSystem</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>PartnerMatchingSystem</name>
-    <description>PartnerMatchingSystem</description>
+    <name></name>
+    <description></description>
     <properties>
         <java.version>17</java.version>
     </properties>
